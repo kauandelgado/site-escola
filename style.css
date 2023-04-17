@@ -1,4 +1,9 @@
-body {
+.cabecalho {
     background-color: #383D58;
-    }<title>Document</title>
-    <link rel=”stylesheet” href=”style.css”>
+    color: white;
+    display:flex;
+    justify-content: space-around;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    }
